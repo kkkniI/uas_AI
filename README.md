@@ -1,1 +1,1 @@
-download kedua file tersebut untuk data bunga (iris_data) 
+download kedua file tersebut, untuk data bunga di (iris_data) 
